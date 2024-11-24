@@ -9,6 +9,7 @@
 - **[active] (CC)** C113B4KY1818 – I Gede Suara Adi Pratama – Institut Teknologi dan Bisnis STIKOM Bali
 - **[active] (CC)** C113B4KX2063 – Jessica Lau – Institut Teknologi dan Bisnis STIKOM Bali
 
+#
 
 ## Our Project Description
 **StuntKids** is a mobile application designed to help identify early signs of stunting and monitor the growth of toddlers aged 1–24 months. The app features a *Stunting Checker* to assess a child’s growth based on height, age, and gender, providing personalized nutritional recommendations. It also includes a *History Stunting Checker* for tracking growth progress and an *Educational Articles* section offering practical tips and insights on preventing stunting. With these features, StuntKids aims to empower families with tools and knowledge to support healthy child development and address stunting effectively.
