@@ -1,0 +1,6 @@
+numpy 
+pandas
+matplotlib.pyplot
+tensorflow 
+joblib
+keras_tuner
